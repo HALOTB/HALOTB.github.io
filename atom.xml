@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://halotb.github.io</id>
     <title>HALOTB</title>
-    <updated>2020-07-31T06:40:55.340Z</updated>
+    <updated>2020-08-17T01:03:07.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://halotb.github.io"/>
     <link rel="self" href="https://halotb.github.io/atom.xml"/>
@@ -16,27 +16,8 @@
         <link href="https://halotb.github.io/post/halotb/">
         </link>
         <updated>2020-07-30T14:01:51.000Z</updated>
-        <content type="html"><![CDATA[<p>2017.09—至今	上海立达学院	软件技术	大专在读	<br>
-主修课程：面向对象程序设计，数据库技术与应用，C#程序设计，高级 Web 程序设计开发<br>
-个人作业：学生学籍管理系统：<br>
-•	基于.NET Farmwork框架完成后台逻辑功能设计和对应前段展示，独立完成开发文档的撰写；<br>
-•	独立完成SQL数据库表设计，与系统对接，；<br>
-•	参与产品功能需求讨论，梳理产品功能，完成产品部分功能的原型设计工作。<br>
-Web网页开发(ASP.NET)：<br>
-•	基于.NET Farmwork框架完成网页的的UI、开发设计工作；<br>
-•	完成登陆、注册、新闻发布、聊天、图片上传、导航和站点地图等模块开发；<br>
-•	编写用户操作手册，产品手册等，按照流程图编写业务流程的测试用例。<br>
-电商平台ERP商品出入库模块设计。</p>
-<p>2017.12-2018.05	上海溪客信息技术服务有限公司	视频内容审核（兼职）<br>
-•	按照主管部门下发通知，对站内进行回查，并清理违规内容；<br>
-•	根据有关法律、法规及公司审核制度，审核音频内容有无违规内容。<br>
-2018.07-至今	上海星巴克咖啡经营有限公司	星级咖啡师（兼职）<br>
-•	制作和提供品质如一的咖啡、饮料和食品，为所有顾客提供优质的服务；<br>
-•	负责门市运营，协助店经理完成日常工作安排。</p>
-<p>2018 年获得校级“三好学生”称号	计算机一级证书<br>
-2018 年获得校级“优秀班干部”称号	网页中级证书<br>
-2019年获得校级“一等奖”奖学金	CET4(420分)</p>
-<p>计算机专业毕业，诚实守信，热心待人。作为即将毕业的大学生，年轻有活力，阅历虽然潜，但我会努力学习。工作上认真负责，有责任心，不怕辛苦，有一定的抗压能力。</p>
+        <content type="html"><![CDATA[<p>Hello<br>
+✉️ 525659129@qq.com</p>
 ]]></content>
     </entry>
 </feed>
